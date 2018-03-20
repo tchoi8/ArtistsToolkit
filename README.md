@@ -37,3 +37,10 @@ https://github.com/tchoi8/ArtistToolKit
 ### [Taeyoon Choi](http://taeyoonchoi.com) 
 I make paintings, performances, books, and installations. I make unique computational objects, as in my Handmade Computer series and Distributed Network of Care, a new generation of secure, non-commercial and censorship-free networks. I explore the discourse of technology with a critical perspective towards ethics, agency, justice and sensitivity to minority issues. I consider technology as means of effecting power and seek to make tools and resources accessible to those excluded in consumerist technology’s concept of personhood. As a social practice artist, I’m inspired by art as a form of care. I draw from the work of Lygia Clark and Suzanne Lacy, whose social practices prompt direct action, participation and educational engagement. Through my work and teaching, I attempt to practice soft care, an implicit, nuanced form of care between people and within oneself that prioritize one’s personhood and integrity as well as their security and privacy. I investigate how technological innovation is not an inherent good for the people, because care cannot be entirely automated. 
  
+## Artist Website Examples
+
+### [Ryan Kuo] (https://rkuo.net/)
+### [Sondra Perry] (http://sondraperry.com/)
+### [Jen Liu] (http://jenliu.info/)
+### [Siebren Versteeg] (http://www.siebrenversteeg.com)
+### [Young-hae Chang Heavy Industries] (http://www.yhchang.com/)
