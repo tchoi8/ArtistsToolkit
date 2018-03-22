@@ -39,8 +39,8 @@ I make paintings, performances, books, and installations. I make unique computat
  
 ## Artist Website Examples
 
-### [Ryan Kuo] (https://rkuo.net/)
-### [Sondra Perry] (http://sondraperry.com/)
-### [Jen Liu] (http://jenliu.info/)
-### [Siebren Versteeg] (http://www.siebrenversteeg.com)
-### [Young-hae Chang Heavy Industries] (http://www.yhchang.com/)
+### [Ryan Kuo](https://rkuo.net/)
+### [Sondra Perry](http://sondraperry.com/)
+### [Jen Liu](http://jenliu.info/)
+### [Siebren Versteeg](http://www.siebrenversteeg.com)
+### [Young-hae Chang Heavy Industries](http://www.yhchang.com/)
