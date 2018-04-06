@@ -2,7 +2,9 @@
 Artist Residency Application Workshop at the School for Poetic Computation.
 
 Teacher: Taeyoon Choi 
+
 TA: Celine Wong Katzman 
+
 Date: April 6, 2018 
 
 ![](https://github.com/tchoi8/ArtistsToolkit/blob/master/apply.jpg?raw=true)
@@ -29,6 +31,7 @@ Artist residencies offer great opportunities for emerging artists to develop the
 
 
 ![](https://c1.staticflickr.com/9/8876/18614959841_9fa4854b62_z.jpg)
+
 *[Xuan Juliana Wang](http://www.xuanjulianawang.com/)'s studio at [LMCC](http://lmcc.net)*
 You meet great friends and collaborators at residencies. 
 
@@ -37,7 +40,7 @@ You meet great friends and collaborators at residencies.
 - Working for other artists? Access to connections? 
 - Do not over commit or over produce (doing mulitple residencies at the same time is a bad idea) 
 - We will never have enough time or resources. Deal with it. (Think of your reality as a creative constraint, not a restriction) 
-- I highly recommend [B.F.A](http://lmcc.net/program/basic-finance-for-artists/)(Basic Finance for Artists) at LMCC
+- I highly recommend [B.F.A](https://lmcc.net/artist-resources/professional-development-for-artists/)(Basic Finance for Artists) at LMCC, and the [Creative Capital](https://www.creative-capital.org/pdp)'s professional development programs and webinars. 
 - [Art/Work](http://books.simonandschuster.com/ART-WORK/Heather-Darcy-Bhandari/9781416572336) is a a great resrouce. 
 
 # Promise me this 
@@ -83,6 +86,14 @@ You meet great friends and collaborators at residencies.
 - Real people are reading your application. They can relate to your life story.   
 - Solo project / Collaboration / Cooperation. How to credit and how to apply as a collaborative.   
 - You will need to edit your bio, specificcally to the residency you apply. 
+
+# Sample application questions 
+
+- Where can we see your previous work samples? Please provide up to 5 work samples with individual URLs or images. 
+- Explain your interest in this year's residency theme ( )? . How does your own practise relate to the theme?
+- Have you worked on a technical project or collaborate?  What did you enjoy and what was challenging? 
+- Are you able to work onsite in New York City between date 1 ~ date 2? 
+- Are you able to commit to working on site four days/ week during the residency period? 
 
 # Artist statement
 - Philosophy and motivation 
