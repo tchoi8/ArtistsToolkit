@@ -67,8 +67,8 @@ You meet great friends and collaborators at residencies.
 - Art + Tech residencies & Art and Science residencies. What's the difference? 
 - Art + Tech : [Eyebeam](http://eyebeam.org), [Pioneerworks](https://pioneerworks.org/technology/residency/), [Harvestworks](http://www.harvestworks.org/), [Hangar](https://hangar.org/en/), [YCAM](http://www.ycam.jp/en/), [STEIM](http://steim.org/work-with-us/project-residencies/), [Pier 9](https://www.autodesk.com/pier-9/residency/home
 ) 
-- NY based residencies  - rare and competitive, LMCC, [Smack Mellon](smackmellon.org/index.php/contact/how_to_apply/
-), [Studio Museum in Harlem](http://www.studiomuseum.org/learn/artist-in-residence), different models popping up like [NEW INC](www.newinc.org/) and [A/D/O](https://a-d-o.com/
+- NY based residencies  - rare and competitive, LMCC, [Smack Mellon](http://smackmellon.org/index.php/contact/how_to_apply/
+), [Recess](http://recessart.org), [Sharpe Walentas Studio Program](http://thestudioprogram.com/), [Studio Museum in Harlem](http://www.studiomuseum.org/learn/artist-in-residence), different models popping up like [NEW INC](www.newinc.org/) and [A/D/O](https://a-d-o.com/
 ).  
 - Read the call carefully. Eligibility depends on the region, age, gender, ethnicity, career stage
 - Check the alumni, do a reality check if you are at the similar career stage.     
