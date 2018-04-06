@@ -1,13 +1,16 @@
-![](https://c1.staticflickr.com/9/8876/18614959841_9fa4854b62_z.jpg)
 
-*[Xuan Juliana Wang](http://www.xuanjulianawang.com/)'s studio at [LMCC](http://lmcc.net)*
+Artist Residency Application Workshop at the School for Poetic Computation.
 
+Teacher: Taeyoon Choi 
+TA: Celine Wong Katzman 
+Date: April 6, 2018 
 
-Artist Residency Application Workshop
+![](https://github.com/tchoi8/ArtistsToolkit/blob/master/apply.jpg?raw=true)
 
-Sa
-
+Image description: my submittable dashboard for residencies and grants applications. In-progress are all declined applications which the institution didn't bother to update the process. 
+  
 Artist residencies offer great opportunities for emerging artists to develop their artistic practice. It's also a chance to find a community of collaborators and build a network with curators. Applying to artist residencies can be a daunting task at first. This workshop will give an overview of residencies and provide practical tips to applications. Students will write their artist statement, narrative bio and prepare their supporting documents. 
+
 
 
 
@@ -22,6 +25,12 @@ Artist residencies offer great opportunities for emerging artists to develop the
 - my [LMCC](https://www.flickr.com/photos/80913365@N04/sets/72157646634239134) studio from 2015~2016
 - my [Eyebeam](https://www.flickr.com/search/?text=eyebeam%20taeyoon) experience from 2008~2011
 - my [SFPC](https://medium.com/@tchoi8/diversity-at-sfpc-d494d7390375) experience as an administrator
+
+
+
+![](https://c1.staticflickr.com/9/8876/18614959841_9fa4854b62_z.jpg)
+*[Xuan Juliana Wang](http://www.xuanjulianawang.com/)'s studio at [LMCC](http://lmcc.net)*
+You meet great friends and collaborators at residencies. 
 
 # Making a living / Making good work
 - Survival tactic: Diversify your source of income 
