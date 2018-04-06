@@ -16,16 +16,16 @@ T.A.: Celine Katzman celine.katzman@gmail.com
 
 - Friday March 23, Class 1: Artist Statement, CV, Portfolio + Lunch time visitor [Aaron Sanchez](http://www.polyphonicworkshop.com/), [Casey Reas](http://reas.com), [Megan Heuer](http://whitney.org) 
 - Friday March 30, Class 2: Field Trip: MoMA Library & [Thinking Machines](https://www.moma.org/calendar/exhibitions/3863) Exhibition
-- Friday April 6, Class 3: Applying to Residencies 
-- Friday April 13, Class 4: Field Trip: Galleries and Museums 
-- Wednesday May 2, Class 5: Field Trip: [Data & Society](http://datasociety.net)- Budgeting, Logistics, Promotion
+- Friday April 6, Class 3: Applying to [Artist Residencies](https://github.com/tchoi8/ArtistsToolkit/blob/master/residency.md) 
+- Friday April 13, Class 4: Field Trip: Artist studio visit [Clement Valla](http://clementvalla.com)
+- Wednesday May 2, Class 5: Class: Budgeting, Logistics, Promotion + Field Trip: [Data & Society](http://datasociety.net)
 
 
 ## Celine (T.A.) Office Hours  
 
 - Tuesday March 20, Office Hours at SFPC 1-6pm
 - Tuesday March 27, Office Hours at SFPC 1-6pm
-- Tuesday April 3, Office Hours at SFPC 1-6pm
+- Tuesday April 6, Office Hours at SFPC 1-6pm
 - Tuesday April 10, Office Hours at SFPC 1-6pm
 - Tuesday May 1, Office Hours at SFPC 1-6pm
 
