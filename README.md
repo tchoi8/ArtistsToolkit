@@ -16,6 +16,7 @@ T.A.: Celine Katzman celine.katzman@gmail.com
 
 - Friday September 28, Class 1: Artist Statement and CV for portfolio site. 
 - Friday October 12, Class 2: Dance and movement class by Cori Kresge
+- October, Whitney Museum: [Programmed: Rules, Codes, and Choreographies in Art, 1965–2018](https://whitney.org/exhibitions/programmed)
 - Friday October 19, Class 3: Applying to [Artist Residencies](https://github.com/tchoi8/ArtistsToolkit/blob/master/residency.md), Field trip to [Future Space](https://www.instagram.com/futurespace.nyc/) and [Dave and Gabe](http://www.daveandgabe.care/) 
 - Friday November 2, Class 4: Field trip to [MoMA Library](https://www.moma.org/research-and-learning/library/) at 10 am. 4 W 54th St, New York, NY 10019
 - Tuesday November 13, Class 5: Crit
