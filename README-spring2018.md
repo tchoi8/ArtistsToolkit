@@ -1,35 +1,34 @@
-# Artists Toolkit
+# ArtistsToolkit
 
-This class will introduce basic tools and resources required to pursue a career as a practicing artist. Students will learn to frame their creative practices as art by completing tasks such as writing critically about their own work, drafting grant proposals, and planning the business administration of their studios. By the end of class, students will complete their artist portfolio website and apply for an artist residency. 
+This class will introduce basic tools and resources required to pursue a career as a practicing artist. Students will learn to frame their creative practices as art by completing tasks such as writing critically about their own work, drafting mock project proposals, and planning the administration of their studios.
 
-Offered at the School for Poetic Computation, Fall 2018 
+Offered at the School for Poetic Computation, Spring 2018 
 
 Teacher: Taeyoon Choi taeyoon@sfpc.io  
 T.A.: Celine Katzman celine.katzman@gmail.com 
 
 ## Topics 
- - Writing an Artist statement 
- - Applying to Artist residencies   
- - Grants, budgeting, logistics, promotion
+ - Writing an Artist Statement, CV, and Portfolio  
+ - Applying to Artist Residencies   
+ - Budgeting, Logistics, Promotion
 
 ## Class schedule 
 
-- Friday September 28, Class 1: Artist Statement and CV for portfolio site. 
-- Friday October 12, Class 2: Dance and movement class by Cori Kresge
-- Friday October 19, Class 3: Applying to [Artist Residencies](https://github.com/tchoi8/ArtistsToolkit/blob/master/residency.md), Field trip to [Future Space](https://www.instagram.com/futurespace.nyc/) and [Dave and Gabe](http://www.daveandgabe.care/) 
-- Friday November 2, Class 4: Field trip to [MoMA Library](https://www.moma.org/research-and-learning/library/) at 10 am. 4 W 54th St, New York, NY 10019
-- Tuesday November 13, Class 5: Crit
-- Wednesday November 14, Class 6 Grant application, budgeting, logistics, promotion. Offsite at the [Data & Society](http://datasociety.net)
+- Friday March 23, Class 1: Artist Statement, CV, Portfolio + Lunch time visitor [Aaron Sanchez](http://www.polyphonicworkshop.com/), [Casey Reas](http://reas.com), [Megan Heuer](http://whitney.org) 
+- Friday March 30, Class 2: Field Trip: MoMA Library & [Thinking Machines](https://www.moma.org/calendar/exhibitions/3863) Exhibition
+- Friday April 6, Class 3: Applying to [Artist Residencies](https://github.com/tchoi8/ArtistsToolkit/blob/master/residency.md) 
+- Friday April 13, Class 4: Field Trip: Artist studio visit [Clement Valla](http://clementvalla.com) Meet at a donut shop 
+5702 2nd Ave, Brooklyn, NY 11220 at 10:30am. 
+- Wednesday May 2, Class 5: Class: Budgeting, Logistics, Promotion + Field Trip: [Data & Society](http://datasociety.net)
 
 
 ## Celine (T.A.) Office Hours  
 
-- Wednesday Oct 3, Office Hours at SFPC 2-6pm
-- Wednesday Oct 10, Office Hours at SFPC 2-6pm
-- Wednesday Oct 17, Office Hours at SFPC 2-6pm
-- Wednesday Oct 24, Office Hours at SFPC 2-6pm
-- Wednesday Oct 31, Office Hours at SFPC 2-6pm
-- Wednesday Nov 7, Office Hours at SFPC 2-6pm
+- Tuesday March 20, Office Hours at SFPC 1-6pm
+- Tuesday March 27, Office Hours at SFPC 1-6pm
+- Tuesday April 6, Office Hours at SFPC 2-6pm
+- Tuesday April 10, Office Hours at SFPC 1-6pm
+- Tuesday May 1, Office Hours at SFPC 1-6pm
 
 Original syllabus 
 https://github.com/tchoi8/ArtistToolKit 
