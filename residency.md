@@ -5,7 +5,7 @@ Teacher: Taeyoon Choi
 
 TA: Celine Wong Katzman 
 
-Date: April 6, 2018 
+Date: Oct 19, 2018 
 
 ![](https://github.com/tchoi8/ArtistsToolkit/blob/master/apply.jpg?raw=true)
 
@@ -14,21 +14,17 @@ Image description: my submittable dashboard for residencies and grants applicati
 Artist residencies offer great opportunities for emerging artists to develop their artistic practice. It's also a chance to find a community of collaborators and build a network with curators. Applying to artist residencies can be a daunting task at first. This workshop will give an overview of residencies and provide practical tips to applications. Students will write their artist statement, narrative bio and prepare their supporting documents. 
 
 
-
-
 # Why do I need to apply for Artist residency? 
 - Time and space. Usually free space + professional development 
 - Network, connection and exposure 
-- Build a relation with a city or a community  
-- Chance to intervene in the wheelhouse of MFA and the contemporary fine arts network, curator, writer, gallerist, etc  
+- Build a relation with a new city, country or community  
+- Chance to intervene in the wheelhouse of MFA and the contemporary fine arts network. Connect with curator, writer, gallerist, fellow artists 
 - Opportunity for new ideas, inspiration, collaboration
-- Support structure for your practice.  
-- When you have money, you don't have time. When you have time, you don't have money. Sometimes you don't have money or time. 
+- Support structure for your practice  
+- "When you have money, you don't have time. When you have time, you don't have money. Sometimes you don't have money or time." - Taeyoon 
 - my [LMCC](https://www.flickr.com/photos/80913365@N04/sets/72157646634239134) studio from 2015~2016
 - my [Eyebeam](https://www.flickr.com/search/?text=eyebeam%20taeyoon) experience from 2008~2011
 - my [SFPC](https://medium.com/@tchoi8/diversity-at-sfpc-d494d7390375) experience as an administrator
-
-
 
 ![](https://c1.staticflickr.com/9/8876/18614959841_9fa4854b62_z.jpg)
 
@@ -40,19 +36,17 @@ You meet great friends and collaborators at residencies.
 - Working for other artists? Access to connections? 
 - Do not over commit or over produce (doing mulitple residencies at the same time is a bad idea) 
 - We will never have enough time or resources. Deal with it. (Think of your reality as a creative constraint, not a restriction) 
-- I highly recommend [B.F.A](https://lmcc.net/artist-resources/professional-development-for-artists/)(Basic Finance for Artists) at LMCC, and the [Creative Capital](https://www.creative-capital.org/pdp)'s professional development programs and webinars. 
-- [Art/Work](http://books.simonandschuster.com/ART-WORK/Heather-Darcy-Bhandari/9781416572336) is a a great resrouce. 
+- I highly recommend [B.F.A](https://lmcc.net/artist-resources/professional-development-for-artists/)(Basic Finance for Artists) workshop at LMCC, and the [Creative Capital](https://www.creative-capital.org/pdp)'s professional development programs and webinars. 
+- [Art/Work](http://books.simonandschuster.com/ART-WORK/Heather-Darcy-Bhandari/9781416572336) is a a great resrouce on the logistics of being an artist. 
 
 # Promise me this 
 
-- Create your own residency, $5000 grant for yourself. 17 months plan - save $300 every months from this month. By September 6, 2019. You will have $5000 for your creative work. This is your seed money. Invest in your own practice and your team. 
+- Apply to 5 artist resiencies in next 3 months. 
 
-- Apply to 5 artist resiencies in next 12 months. 
-
-- Host 1 artist in residence in next 6 months. 
+- Create your own residency, $5000 grant for yourself. 17 months plan - save $300 every months from this month. By March, 20120, you will have $5000 for your creative work. This is your seed money. Invest in your own practice and your team. 
 
 # Residency/ Fellowship/ Commission 
-- Expectations and experiences are different. Fellowship often focus on programs and professional developments, Commission focus on making one big project, often with financial support. Residency focus on supporting your practice, for you to make art. Residencies often only expect you to use the space and exhibiting work in progress during the open studios. 
+- Expectations and experiences are different. Residency focus on supporting your practice, for you to make art. Residencies often only expect you to use the space and exhibiting work in progress during the open studios. Fellowship often focus on programs and professional developments, Commission focus on making one big project, often with financial support. 
 - Institutional / Artists-run Spaces
 - Residencies that pay you 
 - Residencies that are free
@@ -60,20 +54,21 @@ You meet great friends and collaborators at residencies.
 - This all depends on how the residencies are funded and structured. 
 
 # Domestic / International / Nomadic 
-- How to you find residencies you apply? - find your role model artist. Check out the residencies they've done. For me, I was following [Cory Arcangel](http://www.coryarcangel.com/) and [Lovid](http://www.lovid.org/) when I was starting out.
-- Post-graduate school: [Skowhegan](http://www.skowheganart.org/), [Akademie Schloss Solitude](http://www.akademie-solitude.de/en), [Rijksakademie](http://www.rijksakademie.nl/ENG/)
+- How to you find residencies you apply? - find your role model artist. Check out the residencies they've done. When I was starting out, I was following [Cory Arcangel](http://www.coryarcangel.com/) and [Lovid](http://www.lovid.org/).
+- Post / Alt Graduate school: [Skowhegan](http://www.skowheganart.org/), [Akademie Schloss Solitude](http://www.akademie-solitude.de/en), [Rijksakademie](http://www.rijksakademie.nl/ENG/)
 - Life time achievement: [DAAD](http://www.berliner-kuenstlerprogramm.de/en/index_en.php)
-- Europe, Asia, Australia, South America, Africa, Egypt, other places. [ResArtis](http://resartis.org), [Residency Unlimited](http://residencyunlimited.org)
+- Get out of the U.S. Look out for Europe, Asia, Australia, South America, Africa, Egypt, other places. [ResArtis](http://resartis.org), [Residency Unlimited](http://residencyunlimited.org), [Rivets](https://rivet.es)
 - Art + Tech residencies & Art and Science residencies. What's the difference? 
-- Art + Tech : [Eyebeam](http://eyebeam.org), [Pioneerworks](https://pioneerworks.org/technology/residency/), [Harvestworks](http://www.harvestworks.org/), [Hangar](https://hangar.org/en/), [YCAM](http://www.ycam.jp/en/), [STEIM](http://steim.org/work-with-us/project-residencies/), [Pier 9](https://www.autodesk.com/pier-9/residency/home
-) 
+- Art + Tech : [Eyebeam](http://eyebeam.org), [Pioneerworks](https://pioneerworks.org/technology/residency/), [Harvestworks](http://www.harvestworks.org/), [Hangar](https://hangar.org/en/), [YCAM](http://www.ycam.jp/en/), [STEIM](http://steim.org/work-with-us/project-residencies/), [Pier 9](https://www.autodesktechnologycenters.com/) 
 - NY based residencies  - rare and competitive, LMCC, [Smack Mellon](http://smackmellon.org/index.php/contact/how_to_apply/
-), [Recess](http://recessart.org), [Sharpe Walentas Studio Program](http://thestudioprogram.com/), [Studio Museum in Harlem](http://www.studiomuseum.org/learn/artist-in-residence), different models popping up like [NEW INC](www.newinc.org/) and [A/D/O](https://a-d-o.com/
-).  
+), [Recess](http://recessart.org), [Sharpe Walentas Studio Program](http://thestudioprogram.com/), [Studio Museum in Harlem](http://www.studiomuseum.org/learn/artist-in-residence), [Museum of Art and Design](http://madmuseum.org) and [Textile Art Center](http://textileartscenter.com/index.php?route=studio/studio&information_id=1)
+- Incubators? : different models popping up like [NEW INC](www.newinc.org/), [A/D/O](https://a-d-o.com/
+) and [Gray Area](https://grayarea.org/creative-development/incubator/incubator-membership-application/)  
+- Greater NY - [Wassaic](http://wassaicartistresidency.org/), [Shendanken](http://www.shandakenproject.org/), [Yaddo](https://www.yaddo.org/), [MacDowell](https://www.macdowellcolony.org/)
 - Read the call carefully. Eligibility depends on the region, age, gender, ethnicity, career stage
 - Check the alumni, do a reality check if you are at the similar career stage.     
 - Application fee, worth it? Yes, if you qualify. 
-- [Shipping container](http://www.containerartistresidency.org/#!freight-/c65q), [Arctic](http://www.thearcticcircle.org/), two places (Shanghai - NY)  
+- [Shipping container](http://www.containerartistresidency.org/#!freight-/c65q), [Arctic](http://www.thearcticcircle.org/), Bay Area [Headlands Center for the Arts](http://www.headlands.org/program/air/)
 - [Libraries](https://medium.com/@blprnt/an-artist-in-every-library-c0df05bf3c9), [Airports](http://www.abc.net.au/news/2016-01-07/australias-first-airport-artist-in-residence-draws-airport-life/7073434), [Trains](http://blog.amtrak.com/amtrakresidency/), Hospitals and other public organizations.  
 - [Universities](http://studioforcreativeinquiry.org/public/university_artist_in_residence_report_2013.pdf)
  
@@ -90,7 +85,7 @@ You meet great friends and collaborators at residencies.
 # Sample application questions 
 
 - Where can we see your previous work samples? Please provide up to 5 work samples with individual URLs or images. 
-- Explain your interest in this year's residency theme ( )? . How does your own practise relate to the theme?
+- Explain your interest in this year's residency theme ( this can be anything)? . How does your own practise relate to the theme?
 - Have you worked on a technical project or collaborate?  What did you enjoy and what was challenging? 
 - Are you able to work onsite in New York City between date 1 ~ date 2? 
 - Are you able to commit to working on site four days/ week during the residency period? 
@@ -138,8 +133,6 @@ You meet great friends and collaborators at residencies.
 - Something of a dream [Rabbit Island](http://rabbitisland.org/)
 - [Fire Island Artist Residency](http://www.fireislandartistresidency.org/)
 - [Temporary Seoul](http://taeyoonchoi.com/2010/12/seoul-residency/)
-- [Wassaic](http://wassaicartistresidency.org/) 
-- [Shendanken](http://www.shandakenproject.org/) 
 
 # And
 Lots of love for people who work at Artist residencies. THANK YOU! 
