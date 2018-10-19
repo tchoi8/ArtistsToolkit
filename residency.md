@@ -57,13 +57,13 @@ You meet great friends and collaborators at residencies.
 - How to you find residencies you apply? - find your role model artist. Check out the residencies they've done. When I was starting out, I was following [Cory Arcangel](http://www.coryarcangel.com/) and [Lovid](http://www.lovid.org/).
 - Post / Alt Graduate school: [Skowhegan](http://www.skowheganart.org/), [Akademie Schloss Solitude](http://www.akademie-solitude.de/en), [Rijksakademie](http://www.rijksakademie.nl/ENG/)
 - Life time achievement: [DAAD](http://www.berliner-kuenstlerprogramm.de/en/index_en.php)
-- Get out of the U.S. Look out for Europe, Asia, Australia, South America, Africa, Egypt, other places. [ResArtis](http://resartis.org), [Residency Unlimited](http://residencyunlimited.org), [Rivets](https://rivet.es)
+- Get out of the U.S. Look out for Europe, Asia, Australia, South America, Africa, Egypt, other places. [Residency Unlimited](http://residencyunlimited.org), [Rivets](https://rivet.es)
 - Art + Tech residencies & Art and Science residencies. What's the difference? 
-- Art + Tech : [Eyebeam](http://eyebeam.org), [Pioneerworks](https://pioneerworks.org/technology/residency/), [Harvestworks](http://www.harvestworks.org/), [Hangar](https://hangar.org/en/), [YCAM](http://www.ycam.jp/en/), [STEIM](http://steim.org/work-with-us/project-residencies/), [Pier 9](https://www.autodesktechnologycenters.com/) 
+- Art + Tech : [Eyebeam](http://eyebeam.org), [Pioneerworks](https://pioneerworks.org/technology/residency/), [Harvestworks](http://www.harvestworks.org/), [Squeaky Wheel](http://squeaky.org/workspace-residency/), [Hangar](https://hangar.org/en/), [YCAM](http://www.ycam.jp/en/), [STEIM](http://steim.org/work-with-us/project-residencies/)
 - NY based residencies  - rare and competitive, LMCC, [Smack Mellon](http://smackmellon.org/index.php/contact/how_to_apply/
 ), [Recess](http://recessart.org), [Sharpe Walentas Studio Program](http://thestudioprogram.com/), [Studio Museum in Harlem](http://www.studiomuseum.org/learn/artist-in-residence), [Museum of Art and Design](http://madmuseum.org) and [Textile Art Center](http://textileartscenter.com/index.php?route=studio/studio&information_id=1)
 - Incubators? : different models popping up like [NEW INC](www.newinc.org/), [A/D/O](https://a-d-o.com/
-) and [Gray Area](https://grayarea.org/creative-development/incubator/incubator-membership-application/)  
+), [Pier 9](https://www.autodesktechnologycenters.com/)  and [Gray Area](https://grayarea.org/creative-development/incubator/incubator-membership-application/)  
 - Greater NY - [Wassaic](http://wassaicartistresidency.org/), [Shendanken](http://www.shandakenproject.org/), [Yaddo](https://www.yaddo.org/), [MacDowell](https://www.macdowellcolony.org/)
 - Read the call carefully. Eligibility depends on the region, age, gender, ethnicity, career stage
 - Check the alumni, do a reality check if you are at the similar career stage.     
@@ -85,7 +85,7 @@ You meet great friends and collaborators at residencies.
 # Sample application questions 
 
 - Where can we see your previous work samples? Please provide up to 5 work samples with individual URLs or images. 
-- Explain your interest in this year's residency theme ( this can be anything)? . How does your own practise relate to the theme?
+- Explain your interest in this year's residency theme? ( this can be anything). How does your own practise relate to the theme?
 - Have you worked on a technical project or collaborate?  What did you enjoy and what was challenging? 
 - Are you able to work onsite in New York City between date 1 ~ date 2? 
 - Are you able to commit to working on site four days/ week during the residency period? 
